@@ -1,0 +1,27 @@
+.register{
+    background-color: rgba(6, 27, 7, 0.753);
+    width: 55rem;
+    margin-top: 0rem;
+    margin-left: 9rem;
+    justify-self: center;
+    height: 39rem;
+}
+
+.heading{
+    margin-left: 20rem;
+    margin-bottom: 0rem;
+    padding-top: 2rem;
+    color: azure;
+}
+
+.contents{
+    padding-left: 5rem;
+    color: azure;;
+}
+
+.btn{
+    width: 16rem;
+    justify-self: center;
+    background-color: rgba(40, 46, 44, 0.575);
+    border-color: rgba(5, 5, 5, 0.966);
+}

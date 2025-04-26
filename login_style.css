@@ -1,0 +1,31 @@
+body{
+    background-color: rgba(34, 33, 33, 0.884);
+}
+
+.login{
+    margin-top: 140px;
+    margin-left: 25rem;
+    height: 30rem;
+    background-color: rgb(255, 255, 255); 
+    width: 40rem;
+}
+
+.form-control{
+    width: 30rem;
+}
+
+.heading{
+    padding-left: 15rem;
+    font: Arial;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+.contents{
+    padding-left: 5rem;
+}
+
+.btn{
+    width: 30rem;
+    margin-left: 5rem;
+}

@@ -1,0 +1,31 @@
+.left-part{
+    height: 100rem;
+    background-color: rgba(0, 0, 0, 0.842);
+}
+
+.right-part{
+    height: 100rem;
+    background-color: rgb(255, 255, 255);
+}
+
+.heading{
+    color: azure;
+    margin-top: 2rem;
+
+}
+
+.line{
+    color: azure;
+}
+
+
+.content{
+    color: azure;
+    padding-top: 5rem;
+}
+
+.dash-heading{
+    margin-left: 2rem;
+    font-weight: bold;
+    font-size: 150%;
+}

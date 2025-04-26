@@ -1,0 +1,26 @@
+.body-color{
+    background-color: rgba(0, 0, 0, 0.89);
+}
+
+.admin-page{
+    margin-top: 8rem;
+    margin-left: 25rem;
+}
+
+.contents{
+    background-color: rgb(255, 255, 255);
+    width: 35rem;
+    height: 19rem;
+}
+
+.heading{
+    margin-left: 12rem;
+    color: azure;
+    margin-bottom: 1rem;
+}
+
+.alert{
+    padding: 0rem;
+    height: 3rem;
+    width: 32rem;
+}
